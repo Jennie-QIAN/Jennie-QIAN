@@ -1,10 +1,12 @@
 # Hi there 👋
 
-I'm Zhenni, originally from Shanghai, China🇨🇳 , now living in Paris, France🇫🇷 
+I'm Zhenni, originally from Shanghai🇨🇳 , now living in Paris🇫🇷 
 <br/>
 <br/>
-As a full-stack web developer, I love building meaningful, engaging and inclusive solutions  
-Previously a product owner / IT consultant
+🌞Day mode: product manager. I conceive product visions, elaborate strategies, write specs and US and empower creatives to build meaningful, engaging and inclusive solutions
+<br/>
+<br/>
+🌚Night mode: full-stack web developer. I craft cool stuff and am constantly learning and testing out new technologies and tools
 <br/>
 
 ## 🤩 Techs and tools I like to use
