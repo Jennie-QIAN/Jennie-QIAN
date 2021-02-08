@@ -1,9 +1,12 @@
 ### Hi there 👋
-
+[![Visits Badge](https://badges.pufler.dev/visits/Jennie-QIAN/Jennie-QIAN)](https:Jennie-QIAN.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jennyqzn?s=09)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zhenniqian/)
+<br/>
 I'm Zhenni, originally from Shanghai, China🇨🇳 , now living in Paris, France🇫🇷 
 <br />
 As a full-stack web developer, I love building meaningful, engaging and inclusive solutions  
-Previously : product owner, IT consultant
+Previously a product owner / IT consultant
 
 ### Stacks I enjoy working with 🤩
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=grey)
@@ -23,7 +26,3 @@ Previously : product owner, IT consultant
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=grey)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=grey)
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=grey)
-
-### Connect with me 💼
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jennyqzn?s=09)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zhenniqian/)
