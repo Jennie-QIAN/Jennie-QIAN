@@ -1,12 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Zhenni, originally from Shanghai, China🇨🇳 , now living in Paris, France🇫🇷 
 <br/>
 <br/>
 As a full-stack web developer, I love building meaningful, engaging and inclusive solutions  
 Previously a product owner / IT consultant
+<br/>
 
-### Stacks I enjoy working with 🤩
+## 🤩 Stacks I enjoy working with 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=grey)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=grey)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=grey)
