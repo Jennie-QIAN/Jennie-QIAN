@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Zhenni, originally from Shanghai, China🇨🇳 , now living in Paris, France🇫🇷 
-<br />
+<br/>
+<br/>
 As a full-stack web developer, I love building meaningful, engaging and inclusive solutions  
 Previously a product owner / IT consultant
 
