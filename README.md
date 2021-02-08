@@ -21,7 +21,10 @@ Previously a product owner / IT consultant
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Jasmine-informational?style=flat&logo=Jasmine&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Accessibility-informational?style=flat&logo=Accessibility&logoColor=ColorName&color=black)
 <br/>
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
+
