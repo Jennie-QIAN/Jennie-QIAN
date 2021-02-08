@@ -7,7 +7,7 @@ As a full-stack web developer, I love building meaningful, engaging and inclusiv
 Previously a product owner / IT consultant
 <br/>
 
-## 🤩 Stacks I enjoy working with 
+## 🤩 Techs and tools I like to use
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=grey)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=grey)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=grey)
