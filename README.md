@@ -1,15 +1,20 @@
 # Hi there 👋
 
-I'm Zhenni, originally from Shanghai🇨🇳 , now living in Paris🇫🇷 
+I'm Zhenni, originally from Shanghai 🇨🇳 , now living in Paris 🇫🇷 
 <br/>
 <br/>
-🌞Day mode: product manager. I conceive product visions, elaborate strategies, write specs and US and empower creatives to build meaningful, engaging and inclusive solutions
+🌞 Day mode: product manager. I conceive product visions, elaborate strategies, write specs and US and empower creatives to build meaningful, engaging and inclusive solutions.
 <br/>
 <br/>
-🌚Night mode: full-stack web developer. I craft cool stuff and am constantly learning and testing out new technologies and tools
+🌚 Night mode: full-stack web developer. I craft cool stuff and am constantly learning new technologies and tools.
+<br/>
+<br/>
+#### 🌟 As my passion for web development growing stronger and my coding skills getting polished through side projects, I've decided to turn my "night-mode" to "full-time-mode"! 
+#### I'm seeking front-end developer roles based in France or Remote 🙋🏻‍♀️ 
+
 <br/>
 
-## 🤩 Techs and tools I like to use
+## 👾 I love crafting with these technologies and tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
