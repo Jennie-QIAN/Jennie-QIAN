@@ -10,7 +10,7 @@ I'm Zhenni, originally from Shanghai 🇨🇳 , now living in Paris 🇫🇷
 <br/>
 <br/>
 #### 🌟 As my passion for web development growing stronger and my coding skills getting polished through side projects, I've decided to turn my "night-mode" to "full-time-mode"! 
-#### I'm seeking front-end developer roles based in France or Remote 🙋🏻‍♀️ 
+#### I'm seeking fullstack developer roles based in France or Remote 🙋🏻‍♀️ 
 
 <br/>
 
