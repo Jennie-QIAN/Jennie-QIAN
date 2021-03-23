@@ -3,14 +3,13 @@
 I'm Zhenni, originally from Shanghai 🇨🇳 , now living in Paris 🇫🇷 
 <br/>
 <br/>
-🌞 Day mode: product manager. I conceive product visions, elaborate strategies, write specs and US and empower creatives to build meaningful, engaging and inclusive solutions.
+🔙 I was a product manager/consultant for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build meaningful, engaging and inclusive solutions.
 <br/>
 <br/>
-🌚 Night mode: full-stack web developer. I craft cool stuff and am constantly learning new technologies and tools.
+🔛 Now, I am a full-stack developer with a product mindset, building usable and useful stuff, always placing users at the heart of every craft.
 <br/>
 <br/>
-#### 🌟 As my passion for web development growing stronger and my coding skills getting polished through side projects, I've decided to turn my "night-mode" to "full-time-mode"! 
-#### I'm seeking fullstack developer roles based in France or Remote 🙋🏻‍♀️ 
+#### 🌟 Student for life. Stay hungry, stay foolish 😋
 
 <br/>
 
