@@ -11,7 +11,7 @@ I was a product manager/consultant for 4 years, conceiving product visions, elab
 #### 🌟 Student for life. Stay hungry, stay foolish 😋
 <br/>
 
-### 👾 I love crafting with these technologies and tools
+## 👾 I love crafting with these technologies and tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
