@@ -3,17 +3,15 @@
 I'm Zhenni, originally from Shanghai 🇨🇳 , now living in Paris 🇫🇷 
 <br/>
 <br/>
-🔙 I was a product manager/consultant for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build meaningful, engaging and inclusive solutions.
+🔙  I was a product manager/consultant for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build meaningful, engaging and inclusive solutions.
 <br/>
 <br/>
-🔛 Now, I am a full-stack developer with a product mindset, building usable and useful stuff, always placing users at the heart of every craft.
+🔛  Now, I am a full-stack developer with a product mindset, building usable and useful stuff, always placing users at the heart of every craft.
 <br/>
 <br/>
 #### 🌟 Student for life. Stay hungry, stay foolish 😋
 
-<br/>
-
-## 👾 I love crafting with these technologies and tools
+### 👾 I love crafting with these technologies and tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
