@@ -31,3 +31,9 @@ I've been a product manager/consultant for 4 years, conceiving product visions, 
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 
+## 📚 I've been reading...
+I graduated from university with a liberal arts degree, in literature. Ironically, I didn't read that much afterwards.
+The discovery of my genuine interest in programing magically sparks up my passion in reading again... Guess there are similarities/affinities between human languages and programing languages 💌
+
+Here are the books I've been reading recently:
+* Clean code : a handbook of agile software craftsmanship / Robert C. Martin : I take notes in JSON so I can make a random-quote-from-uncle-Bob later. [Repo here](https://github.com/Jennie-QIAN/clean-code-quotes)
