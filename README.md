@@ -1,15 +1,12 @@
 # Hi there 👋
 
 I'm Zhenni, originally from Shanghai 🇨🇳 , now living in Paris 🇫🇷 
-<br/>
-<br/>
+
 I've been a product manager/consultant for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build useful, engaging and inclusive solutions.
-<br/>
-<br/>
+
 👩🏻‍💻 Now, I am a full-stack developer with a product mindset, building meaningful and delightful stuff, always placing users at the heart of every craft.
-<br/>
-#### 🌟 Student for life. Stay hungry, stay foolish 😋
-<br/>
+
+### 🌟 Student for life. Stay hungry, stay foolish 😋
 
 ## 👾 I love crafting with these technologies and tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
@@ -32,8 +29,5 @@ I've been a product manager/consultant for 4 years, conceiving product visions, 
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 
 ## 📚 I've been reading...
-I graduated from university with a liberal arts degree, in literature. Ironically, I didn't read that much afterwards.
-The discovery of my genuine interest in programing magically sparks up my passion in reading again... Guess there are similarities/affinities between human languages and programing languages 💌
-
-Here are the books I've been reading recently:
-* Clean code : a handbook of agile software craftsmanship / Robert C. Martin : I take notes in JSON so I can make a random-quote-from-uncle-Bob later. [Repo here](https://github.com/Jennie-QIAN/clean-code-quotes)
+* Clean code : a handbook of agile software craftsmanship / Robert C. Martin<br/>
+notes taken in JSON to make random-quote-from-uncle-Bob. [Repo](https://github.com/Jennie-QIAN/clean-code-quotes)
