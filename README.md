@@ -29,5 +29,5 @@ I've been a product manager/consultant for 4 years, conceiving product visions, 
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 
 ## 📚 I've been reading...
-* Clean code : a handbook of agile software craftsmanship / Robert C. Martin<br/>
-notes taken in JSON to make random-quote-from-uncle-Bob. [Repo](https://github.com/Jennie-QIAN/clean-code-quotes)
+* **_Clean code : a handbook of agile software craftsmanship_** / by: Robert C. Martin <br/>
+Notes taken in JSON to make random-quote-from-uncle-Bob. [(Repo)](https://github.com/Jennie-QIAN/clean-code-quotes)
