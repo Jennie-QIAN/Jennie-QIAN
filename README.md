@@ -4,7 +4,7 @@ I'm Zhenni, originally from Shanghai 🇨🇳 , now living in Paris 🇫🇷
 
 I've been a product manager/consultant for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build useful, engaging and inclusive solutions.
 
-👩🏻‍💻 Now, I am a full-stack developer with a product mindset, building meaningful and delightful stuff, always placing users at the heart of every craft.
+👩🏻‍💻 Now, I am a full-stack developer building meaningful and delightful stuff, always placing users at the heart of every craft.
 
 ### 🌟 Student for life. Stay hungry, stay foolish 😋
 
