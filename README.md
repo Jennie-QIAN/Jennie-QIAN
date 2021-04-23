@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Zhenni, full stack developer👩🏻‍💻 building useful and delighful applications, practicing writing clean code.
+I'm Zhenni, full stack developer👩🏻‍💻 building useful and delighful applications, practicing clean code.
 
-I was a product manager for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build useful, engaging and inclusive solutions.
+I had been a product manager for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build useful, engaging and inclusive solutions.
 
 ### 🌟 Student for life. Stay hungry, stay foolish 😋
 
