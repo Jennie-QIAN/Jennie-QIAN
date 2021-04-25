@@ -30,16 +30,16 @@ I had been a product manager for 4 years, conceiving product visions, elaboratin
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 
 
-## 🛠️ I'm currently building...
-* **Sick Fits**: e-commerce site with Next.js, GraphQL, Apollo, Styled Components. [(Front)](https://github.com/Jennie-QIAN/sickfits-front) [(Back)](https://github.com/Jennie-QIAN/sickfits-back)
-* **Agroform**: refactor the front end React with React hooks, context, and probably Redux. [(Repo)](https://github.com/agroform/agroform-client)
-* **School's Cool**: community platform for the NGO [School's Cool](https://www.schoolscool.nl/), project in team with Ironhack classmates. In product discovery phase💡
-
-
 ## 🌱 I'm currently learning...
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=ColorName&color=black)
+
+
+## 🛠️ I'm currently building...
+* **Sick Fits**: e-commerce site with Next.js, GraphQL, Apollo, Styled Components. [(Front)](https://github.com/Jennie-QIAN/sickfits-front) [(Back)](https://github.com/Jennie-QIAN/sickfits-back)
+* **Agroform**: refactor the front end React with React hooks, context, and probably Redux. [(Repo)](https://github.com/agroform/agroform-client)
+* **School's Cool**: community platform for the NGO [School's Cool](https://www.schoolscool.nl/), project in team with Ironhack classmates. In product discovery phase💡
 
 
 ## 📚 I'm currently reading...
