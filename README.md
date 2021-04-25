@@ -26,6 +26,11 @@ I had been a product manager for 4 years, conceiving product visions, elaboratin
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 
+## 🛠️ I've been building...
+* **Sick Fits**: e-commerce site with Next.js, GraphQL, Apollo, Styled Components. [(Repo)](https://github.com/Jennie-QIAN/clean-code-quotes)
+* **Agroform**: refactor the front end React with React hooks, context, and probably Redux. [(Repo)](https://github.com/Jennie-QIAN/clean-code-quotes)
+* **School's Cool**: community platform for the NGO [School's Cool](https://www.schoolscool.nl/), project in team with Ironhack classmates. In product discovery phase💡
+
 ## 📚 I've been reading...
 * **_Clean code : a handbook of agile software craftsmanship_** / by: Robert C. Martin <br/>
 Notes taken in JSON to make random-quote-from-uncle-Bob. [(Repo)](https://github.com/Jennie-QIAN/clean-code-quotes)
