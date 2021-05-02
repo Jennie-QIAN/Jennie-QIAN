@@ -1,15 +1,8 @@
 # Hi there 👋
 
-I'm Zhenni, full stack developer👩🏻‍💻 
+I'm Zhenni, full stack developer, ex Product Manager, fond of making meaningful and high-quality stuff😋
 
-building useful and delighful applications, practicing clean code.
-
-I had been a product manager for 4 years, conceiving product visions, elaborating strategies, writing specs and US and empowering creatives to build useful, engaging and inclusive solutions.
-
-### 🌟 Student for life. Stay hungry, stay foolish 😋
-
-
-## 👾 I love crafting with these technologies and tools
+## 👾 I've been building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
@@ -36,12 +29,5 @@ I had been a product manager for 4 years, conceiving product visions, elaboratin
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=ColorName&color=black)
 
 
-## 🛠️ I'm currently building...
-* **Sick Fits**: e-commerce site with Next.js, GraphQL, Apollo, Styled Components. [(Front)](https://github.com/Jennie-QIAN/sickfits-front) [(Back)](https://github.com/Jennie-QIAN/sickfits-back)
-* **Agroform**: refactor the front end React with React hooks, context, and probably Redux. [(Repo)](https://github.com/agroform/agroform-client)
-* **School's Cool**: community platform for the NGO [School's Cool](https://www.schoolscool.nl/), project in team with Ironhack classmates. In product discovery phase💡
-
-
 ## 📚 I'm currently reading...
 * **_Clean code : a handbook of agile software craftsmanship_** / by: Robert C. Martin <br/>
-Notes taken in JSON to make random-quote-from-uncle-Bob. [(Repo)](https://github.com/Jennie-QIAN/clean-code-quotes)
