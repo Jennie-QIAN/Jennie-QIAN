@@ -4,7 +4,6 @@ I'm Zhenni, full stack developer, ex Product Manager, fond of making meaningful 
 
 ## 👾 I'm building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=ColorName&color=black)
@@ -24,6 +23,7 @@ I'm Zhenni, full stack developer, ex Product Manager, fond of making meaningful 
 
 ## 🌱 I'm currently learning...
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=ColorName&color=black)
@@ -31,9 +31,3 @@ I'm Zhenni, full stack developer, ex Product Manager, fond of making meaningful 
 
 ## 📚 I'm currently reading...
 * **_Clean code : a handbook of agile software craftsmanship_** / by: Robert C. Martin <br/>
-
-
-## 🌎 Let's connect! 
-Feel free to send a message 💬 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/zhenniqian/)](https://www.linkedin.com/in/zhenniqian/) 
