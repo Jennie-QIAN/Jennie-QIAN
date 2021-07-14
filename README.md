@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Zhenni, full stack developer, ex Product Manager, fond of making meaningful and high-quality stuff😋
+I'm Zhenni, Web Developer, ex Product Manager, fond of making meaningful and high-quality stuff😋
 
 ## 👾 I'm building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
