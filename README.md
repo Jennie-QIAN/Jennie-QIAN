@@ -27,8 +27,6 @@ I'm Zhenni, Web Developer, ex Product Manager, fond of making meaningful and hig
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=ColorName&color=black)
 
 
 ## 📚 I'm currently reading...
