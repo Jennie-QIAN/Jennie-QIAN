@@ -4,8 +4,9 @@ I'm Zhenni, Web Developer, ex Product Manager, fond of making meaningful and hig
 
 ## 👾 I'm building with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vue.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vue.js&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Nuxt.js-informational?style=flat&logo=nuxt.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=ColorName&color=black)
