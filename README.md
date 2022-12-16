@@ -20,12 +20,10 @@ I'm Zhenni, Web Developer, ex Product Manager, fond of making meaningful and hig
 ![](https://img.shields.io/badge/Wordpress-informational?style=flat&logo=wordpress&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=ColorName&color=black)
 
 
 ## 🌱 I'm currently learning...
-![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
 
