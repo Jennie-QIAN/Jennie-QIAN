@@ -14,6 +14,7 @@ I'm Zhenni, Web Developer, ex Product Manager, fond of making meaningful and hig
 <br/>
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/TailwindCss-informational?style=flat&logo=TailwindCss&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Jasmine-informational?style=flat&logo=Jasmine&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
